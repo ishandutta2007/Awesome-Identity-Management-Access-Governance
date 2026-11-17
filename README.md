@@ -44,64 +44,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[SailPoint](https://www.sailpoint.com/)**  
-
-  Leading Identity Governance and Administration platform offering identity lifecycle management, access certifications, role management, and AI-driven insights.
-
-
-
-- **[Saviynt](https://saviynt.com/)**  
-
-  Enterprise identity governance platform focused on cloud and hybrid environments with strong analytics, access requests, and compliance capabilities.
-
-
-
-- **[Okta](https://www.okta.com/)**  
-
-  Identity platform that combines workforce identity, lifecycle management, and governance features alongside its core SSO and authentication offerings.
-
-
-
-- **[Microsoft Entra ID Governance](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-governance)**  
-
-  Microsoft’s identity governance capabilities including access reviews, entitlement management, lifecycle workflows, and privileged identity management.
-
-
-
-- **[Ping Identity](https://www.pingidentity.com/)**  
-
-  Enterprise identity platform offering access management, federation, and governance features for complex hybrid environments.
-
-
-
-- **[One Identity](https://www.oneidentity.com/)**  
-
-  Identity security portfolio covering identity governance, privileged access, and directory management (includes One Identity Manager and related products).
-
-
-
-- **[ForgeRock](https://www.forgerock.com/)**  
-
-  Full identity platform spanning access management, identity management, directory services, and identity gateway capabilities.
-
-
-
-- **[CyberArk](https://www.cyberark.com/)**  
-
-  Identity security company known for privileged access management, with broader identity management and workforce identity offerings.
-
-
-
-- **[Omada](https://www.omadaidentity.com/)**  
-
-  Identity governance platform focused on simplifying access management, certifications, and compliance for mid-market and enterprise customers.
-
-
-
-- **[Zoho Identity / Directory](https://www.zoho.com/)**  
-
-  Identity and access management capabilities within the Zoho ecosystem for workforce identity and application access control.
-
+| Platform | Description | Valuation / Revenue (Company Size) | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Entra ID Governance](https://www.microsoft.com/en-us/security/business/identity-access/microsoft-entra-id-governance)** | Microsoft's identity governance suite providing access reviews, entitlement management, lifecycle workflows, and PIM. | ~$3.85 Trillion Market Cap (~$90B+ quarterly revenue) | $7.00/user/month (standalone add-on, annual commitment) or $12.00/user/month in Entra Suite | 30-day free trial (up to 100 licenses for evaluation across Microsoft 365 / Azure tenants) |
+| **[Okta](https://www.okta.com/)** | Identity platform combining workforce identity, lifecycle management, and governance features alongside core SSO and authentication. | ~$32 Billion Market Cap (~$2.92B annual revenue) | $17.00/user/month (Workforce Identity Essentials tier including Access Governance; $1,500/year minimum) | 30-day free trial (Workforce Identity sandbox, full feature testing, no credit card required) |
+| **[CyberArk](https://www.cyberark.com/)** | Identity security platform specializing in privileged access management (PAM), workforce identity, and secrets governance. | ~$20.6 Billion Market Cap (~$1.36B annual revenue) | $8.10/user/month (Workforce Identity base tier; PAM typically $600–$1,500/user/year) | 30-day free trial (Workforce Identity sandbox environment available via sales/AWS Marketplace) |
+| **[Zoho Identity / Directory](https://www.zoho.com/)** | Workforce identity, single sign-on, and directory management platform within the Zoho ecosystem. | ~$12.5 Billion Est. Valuation (~$1.5B annual revenue) | $2.00/user/month ($1.70/user/month billed annually for Standard Plan; Professional at $7.00/user/month) | Forever Free Plan: Free up to 10 users, unlimited Zoho apps, 3 third-party SSO apps, 10 devices, and 2 directory stores |
+| **[SailPoint](https://www.sailpoint.com/)** | Enterprise Identity Governance and Administration (IGA) platform featuring AI-driven access modeling, role mining, and certifications. | $6.9 Billion Acquisition Valuation (~$786M annual revenue) | $5.00/identity/month (~$60/identity/year baseline for Standard suite; ~$75,000 annual minimum) | No self-service free trial (Guided 30-day Proof of Concept / sandbox available via sales consultation) |
+| **[One Identity](https://www.oneidentity.com/)** | Modular identity governance, privileged access management, and Active Directory lifecycle management suite. | ~$5.4 Billion Parent Transaction (Part of Quest Software, ~$1B+ group revenue) | $2.50/user/month (~$30/user/year baseline starting license via GSA/reseller schedules) | 30-day free trial (Virtual Trial environment and 30-day evaluation available via sales request) |
+| **[Saviynt](https://saviynt.com/)** | Cloud-native converged identity platform delivering IGA, application access governance, PAM, and non-human identity security. | ~$3.0 Billion Valuation ($700M Series B, scaling to $300M+ ARR) | $2.00/user/month (~$24/user/year starting tier for core cloud IGA subscriptions) | 30-day free trial (Available specifically for Saviynt Zuma non-human/AI governance; sandbox PoC via sales) |
+| **[Ping Identity](https://www.pingidentity.com/)** | Enterprise workforce and customer identity platform delivering access federation, intelligent MFA, and identity governance. | $2.8 Billion Acquisition Valuation (~$800M combined ARR post-merger) | $3.00/user/month (PingOne Essential tier; Plus tier with advanced governance at $6.00/user/month) | 30-day free trial (Up to 1,000 active identities and 5 environments in PingOne sandbox) |
+| **[ForgeRock](https://www.forgerock.com/)** | Comprehensive identity platform covering access management, identity governance, directory services, and identity gateways. | $2.3 Billion Acquisition Valuation (Merged into Ping Identity by Thoma Bravo) | $3.00/user/month (Standard Identity Cloud tier; $6.00/user/month for advanced orchestration) | 30-day free trial (Integrated PingOne/ForgeRock Cloud sandbox supporting up to 1,000 active identities) |
+| **[Omada](https://www.omadaidentity.com/)** | Enterprise IGA platform for automated identity lifecycle management, access certifications, and compliance workflows. | ~$150 Million Valuation (~DKK 1B transaction in 2025; ~DKK 349M / ~$50M annual revenue) | $25,000/month (~$300,000/year enterprise deployment baseline for Omada Identity Cloud) | No self-service free trial (Structured 30-day PoC environment available via enterprise scoping & sales) |
 
 
 ## Open-Source GitHub Projects
